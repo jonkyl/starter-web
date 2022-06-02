@@ -6,6 +6,7 @@ Adding new line
 ## Introduction
 
 Wprowadzenie
+dodatkowo linia
 
 ## Deployment
 deploy
