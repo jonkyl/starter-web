@@ -15,3 +15,6 @@ aditional line
 ## Purpose
 
 Sample website with plenty of files for demos
+
+### Copywright
+2022 Git Training
