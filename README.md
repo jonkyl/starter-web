@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Adding new line
-Adding more text - rebasing
+Adding more text - rebasing, then more changes from myfeature branch too.
 
 ## Introduction
 
